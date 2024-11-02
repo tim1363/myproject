@@ -1,2 +1,2 @@
 # myproject
-321
+venv/bin/python venv/main.py
